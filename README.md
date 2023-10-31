@@ -19,7 +19,7 @@ This is a simple password generator web application that allows you to generate 
 
 ## Screenshot
 
-![Password Generator Screenshot](assets/05-javascript-challenge-demo.png
+![Password Generator Screenshot](assets/05-javascript-challenge-demo.png)
 
 ## Contributing
 
